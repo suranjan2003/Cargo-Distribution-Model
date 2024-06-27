@@ -1,0 +1,12 @@
+
+
+ NoOfCompt = 3;
+ 
+ WeightCapacity = [12, 18, 10];
+ SpaceCapacity = [7000, 9000, 5000];
+ 
+ NoOfCargo = 4;
+ 
+ Weight = [20,16,25,13];
+ Volume = [500, 700, 600, 400];
+ Profit = [320, 400, 360, 290];
